@@ -14,3 +14,5 @@ char s1[]="/home/ajaybechara1/Desktop/CN_PROJECT/Final/SX";
 command to run client file
 
 gcc client.c -o c -pthread `pkg-config --cflags --libs gtk+-2.0`
+
+sudo ./c serverIP portnumber wlp2s0
