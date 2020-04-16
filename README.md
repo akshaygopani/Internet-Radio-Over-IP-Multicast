@@ -16,3 +16,9 @@ command to run client file
 gcc client.c -o c -pthread `pkg-config --cflags --libs gtk+-2.0`
 
 sudo ./c serverIP portnumber wlp2s0
+
+command to run server file
+
+gcc server.c -o s -pthread
+
+./s
