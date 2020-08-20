@@ -1,6 +1,6 @@
 # Internet-Radio-Over-IP-Multicast
 
-Supportable OS  - Linux.
+Supportable OS  -Ubuntu.
 
 Installation for client side
 
